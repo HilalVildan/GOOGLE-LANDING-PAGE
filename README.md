@@ -1,6 +1,6 @@
 # Project : Google Landing Page Project
 ​
-https://google-landing-page-theta.vercel.app/
+https://google-landing-hilal.netlify.app/
 
 ## Description
 ​
